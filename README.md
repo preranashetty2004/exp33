@@ -34,6 +34,14 @@ git add .
 git commit -m
 git rebase origin
 
+exp-5
+1st exp
+2nd till commit
+git status
+git log --oneline
+git checkout main
+git cherry-pick
+
 
 exp4
 1st exp
